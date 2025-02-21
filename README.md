@@ -26,36 +26,21 @@ User-Management/
 🚀 Installation & Setup
 Clone the repository
 
-bash
-Copy
-Edit
 git clone https://github.com/vasanthakumar-hub/User-Management.git
 cd User-Management
 Set up a virtual environment (Optional but recommended)
 
-bash
-Copy
-Edit
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
 Install dependencies
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the application
 
-bash
-Copy
-Edit
 python app.py
 Open in your browser
 
-cpp
-Copy
-Edit
 http://127.0.0.1:5000
 
 🤝 Contributing
