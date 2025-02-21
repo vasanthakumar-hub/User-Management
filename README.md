@@ -24,6 +24,7 @@ User-Management/
 │── database.db         # SQLite database file (if applicable)  
 
 🚀 Installation & Setup
+
 1.Clone the repository
 
 git clone https://github.com/vasanthakumar-hub/User-Management.git
