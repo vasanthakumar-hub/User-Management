@@ -12,10 +12,9 @@ The User Management System is a web-based application that allows administrators
 Frontend: HTML, CSS, JavaScript
 Backend: Flask (Python)
 Database: SQL (SQLite/MySQL/PostgreSQL)
+
 📂 Project Structure
-graphql
-Copy
-Edit
+
 User-Management/
 │── static/             # CSS, JavaScript, and images  
 │── templates/          # HTML templates for rendering views  
@@ -23,23 +22,28 @@ User-Management/
 │── requirements.txt    # Project dependencies  
 │── README.md           # Documentation  
 │── database.db         # SQLite database file (if applicable)  
+
 🚀 Installation & Setup
-Clone the repository
+1.Clone the repository
 
 git clone https://github.com/vasanthakumar-hub/User-Management.git
 cd User-Management
-Set up a virtual environment (Optional but recommended)
+
+2.Set up a virtual environment (Optional but recommended)
 
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate  # On Windows
-Install dependencies
+
+3.Install dependencies
 
 pip install -r requirements.txt
-Run the application
+
+4.Run the application
 
 python app.py
-Open in your browser
+
+5.Open in your browser
 
 http://127.0.0.1:5000
 
